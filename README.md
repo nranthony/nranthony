@@ -4,7 +4,7 @@
 # Get in Touch
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/neil-anthony/)](https://www.linkedin.com/in/neil-anthony/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SidArcidiacono)](https://twitter.com/SidArcidiacono)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/nranthony)](https://twitter.com/nranthony)
 
 
 # Technologies
