@@ -1,4 +1,4 @@
-![Neil Anthony, PhD; Data Scientist, Microscopist, Life Science Technologist](github_header_img_nodes.png)
+![Neil Anthony, PhD; Data Scientist, Microscopist, Life Science Technologist](git_repo_profile_header_2048.jpg)
 
 ## Get in Touch
 
